@@ -1,0 +1,21 @@
+mysql:
+  flavor: mysql
+  host: 192.168.83.239
+  port: 3306
+  username: one_account
+  password: Bdl7dhg^dgHmLd
+  schema: one_account
+  option:
+    protocol: tcp
+    charset: utf8
+redis:
+  host: 192.168.82.88
+  port: 6379
+  username:
+  password: g6B#FoojKC@cpsSc
+  index: 14
+  option:
+    max_idle: 3
+    max_active: 3
+    idle_timeout: 180
+    protocol: tcp

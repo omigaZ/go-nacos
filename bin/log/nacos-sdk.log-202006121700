@@ -1,0 +1,52 @@
+2020/06/12 17:19:48 [client.ListenConfig] request params:map[Listening-Configs:agent-local-dev.ymlDEFAULT_GROUP] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:300000 accessKey: secretKey:] 
+2020/06/12 17:19:48 [client.ListenConfig] config changed:agent-local-dev.yml%02DEFAULT_GROUP%01
+2020/06/12 17:19:48 [client.putLocalConfig] putLocalConfig success
+2020/06/12 17:19:48 [client.updateLocalConfig] update config complete
+2020/06/12 17:19:48 [client.localConfig]  [{agent-local-dev.yml DEFAULT_GROUP mysql:
+  flavor: mysql
+  host: 192.168.83.239
+  port: 3306
+  username: one_account
+  password: Bdl7dhg^dgHmLd
+  schema: one_account
+  option:
+    protocol: tcp
+    charset: utf8
+redis:
+  host: 192.168.82.88
+  port: 6379
+  username:
+  password: g6B#FoojKC@cpsSc
+  index: 14
+  option:
+    max_idle: 3
+    max_active: 3
+    idle_timeout: 180
+    protocol: tcp   <nil>}]
+2020/06/12 17:19:48 [client.ListenConfig] request params:map[Listening-Configs:agent-local-dev.ymlDEFAULT_GROUP79681eedbee8d86a7f5df29ea070d031] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:300000 accessKey: secretKey:] 
+2020/06/12 17:34:20 [client.ListenConfig] request params:map[Listening-Configs:agent-local-dev.ymlDEFAULT_GROUP] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:300000 accessKey: secretKey:] 
+2020/06/12 17:34:20 [client.ListenConfig] config changed:agent-local-dev.yml%02DEFAULT_GROUP%01
+2020/06/12 17:34:20 [client.putLocalConfig] putLocalConfig success
+2020/06/12 17:34:20 [client.updateLocalConfig] update config complete
+2020/06/12 17:34:20 [client.localConfig]  [{agent-local-dev.yml DEFAULT_GROUP mysql:
+  flavor: mysql
+  host: 192.168.83.239
+  port: 3306
+  username: one_account
+  password: Bdl7dhg^dgHmLd
+  schema: one_account
+  option:
+    protocol: tcp
+    charset: utf8
+redis:
+  host: 192.168.82.88
+  port: 6379
+  username:
+  password: g6B#FoojKC@cpsSc
+  index: 14
+  option:
+    max_idle: 3
+    max_active: 3
+    idle_timeout: 180
+    protocol: tcp   <nil>}]
+2020/06/12 17:34:20 [client.ListenConfig] request params:map[Listening-Configs:agent-local-dev.ymlDEFAULT_GROUP79681eedbee8d86a7f5df29ea070d031] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:300000 accessKey: secretKey:] 

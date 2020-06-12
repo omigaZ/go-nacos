@@ -1,0 +1,17 @@
+2020/06/09 15:37:08 [ERROR]:request method[GET],request path[http://10.200.130.102/nacos/serverlist],header:[null],params:[null],err:Get "http://10.200.130.102/nacos/serverlist?": dial tcp 10.200.130.102:80: connect: connection refused
+2020/06/09 15:37:08 [info] http nacos server list: <> 
+2020/06/09 15:37:08 [INFO] logDir:<./data/nacos/log>   cacheDir:<./data/nacos/cache>
+2020/06/09 15:37:08 [ERROR]:request method[GET],request path[http://10.200.130.102/nacos/serverlist],header:[null],params:[null],err:Get "http://10.200.130.102/nacos/serverlist?": dial tcp 10.200.130.102:80: connect: connection refused
+2020/06/09 15:37:08 [info] http nacos server list: <> 
+2020/06/09 15:37:08 [INFO] udp server start, port: 55084
+2020/06/09 15:37:08 [ERROR] api</v1/cs/configs>,method:<GET>, params:<{"dataId":"omeNacos","group":"default","tenant":"dev"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+> 
+2020/06/09 15:37:08 [ERROR] api</v1/cs/configs>,method:<GET>, params:<{"dataId":"omeNacos","group":"default","tenant":"dev"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+> 
+2020/06/09 15:37:08 [ERROR] api</v1/cs/configs>,method:<GET>, params:<{"dataId":"omeNacos","group":"default","tenant":"dev"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+> 
+2020/06/09 15:37:08 [ERROR] get config from server error:[404] config data not exist
+ 
